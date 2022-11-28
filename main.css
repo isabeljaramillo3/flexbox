@@ -20,7 +20,7 @@ header{
 }
 
 .flex-container div{
-	background-color: #f1f1f1;
+	background-color:aliceblue;
 	 flex-grow:4;
 }
 
@@ -34,7 +34,6 @@ footer{
 	text-align: center;
 }
 
-  /* Responsive layout - makes a one column layout instead of a two-column layout */
 @media (max-width: 800px) {
   .flex-container {
     flex-direction: column;
